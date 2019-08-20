@@ -2,7 +2,7 @@
 
 In OpenShift version 4.1 and greater, the Operator Lifecycle Manager (OLM) component reads an Operator’s ClusterServiceVersion (CSV) to determine how to run the Operator and present it to users. A CSV file comprises metadata that accompanies an Operator’s container image.
 
-In a CSV's `spec` block, the `description` field contains a Markdown passage that describes the Operator's features, uses, and limitations. This content appears as the Operator's documentation in the OpenShift web console and the OperatorHub.io catalogue.
+In a CSV's `spec` block, the `description` field contains a Markdown passage that describes the Operator's features, uses, and limitations. This content appears as the Operator's documentation in the OpenShift web console and the [OperatorHub.io](https://operatorhub.io/) catalogue.
 
 A description has five sections:
 
