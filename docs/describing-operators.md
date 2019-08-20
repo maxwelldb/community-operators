@@ -24,6 +24,10 @@ TBD: Add 2-3 exemplary examples here.
 
 etcd seems like a decent option: https://github.com/operator-framework/community-operators/blob/master/community-operators/etcd/etcdoperator.v0.9.0.clusterserviceversion.yaml
 
+## Language guidelines
+
+TBD: IBM style? Something else? 
+
 ## Operator description template
 
 ```markdown
