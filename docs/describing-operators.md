@@ -11,7 +11,7 @@ A description has five sections:
 | Introduction | A brief paragraph or two about the application that the Operator creates. Unlike the other sections in a description, this one does not need a heading. |
 | Core capabilities | An unordered list of the application's core capabilities and use cases. |
 | Operator features | An unordered list of actions that the Operator is able to automate related to the application. |
-| Before you start | _Optional_: An ordered list of steps that the end-user must take before deploying the application in their project. Only include steps that, if skipped, cause application creation to fail. Typically, these steps might be setting mandatory roles, bindings, or secrets. |
+| Before you start | _Optional_: An ordered list of steps that the end-user must take before deploying the application in their project. Only include steps that, if skipped, cause application creation to fail. Typically, these steps might be setting mandatory roles, bindings, or secrets. If your Operator requires a secret, include a cleanly formatted example that includes instructions to generate necessary information.|
 | Troubleshooting | _Optional_: An ordered list of quick, common troubleshooting steps or an unordered list of links to the Troubleshooting section of external documentation. |
 
 Other than the introduction, all of the sections have headings. All headings must be in sentence case and at level H3.
