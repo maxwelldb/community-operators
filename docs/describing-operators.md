@@ -26,7 +26,7 @@ etcd seems like a decent option: https://github.com/operator-framework/community
 
 ## Language guidelines
 
-TBD: IBM style? Something else? 
+When in doubt, defer to the IBM Style Guide.
 
 ## Operator description template
 
