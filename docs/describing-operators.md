@@ -22,8 +22,6 @@ For more information about creating CSVs, see [Building a Cluster Service Versio
 
 TBD: Add 2-3 exemplary examples here.
 
-etcd seems like a decent option: https://github.com/operator-framework/community-operators/blob/master/community-operators/etcd/etcdoperator.v0.9.0.clusterserviceversion.yaml
-
 ## Language guidelines
 
 When in doubt, defer to the IBM Style Guide.
